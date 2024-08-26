@@ -1,4 +1,4 @@
-# Problem 35: Find the Most Frequent Element in a List
+# Problem 33: Find the Most Frequent Element in a List
 # Write a Python function that takes a list of elements and returns the element
 # that appears most frequently. If there are multiple elements with the same frequency, return any one of them.
 

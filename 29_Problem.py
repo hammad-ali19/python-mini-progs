@@ -1,4 +1,4 @@
-# Problem 33: Generate a List of Prime Numbers
+# Problem 29: Generate a List of Prime Numbers
 # Write a Python function that takes an integer n and returns a list
 # of all prime numbers up to n. This problem will help you practice
 # generating sequences and understanding prime number properties.

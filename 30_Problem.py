@@ -1,4 +1,4 @@
-# Problem 34: Check for Armstrong Number
+# Problem 30: Check for Armstrong Number
 
 # Write a Python function that checks whether a given integer
 # is an Armstrong number. An Armstrong number (also known as

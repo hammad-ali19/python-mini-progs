@@ -1,4 +1,4 @@
-# Problem 20: Group Anagrams
+# Problem 40: Group Anagrams
 # Given an array of strings, group the anagrams together. Two words are considered anagrams if they have the same characters but in a different order.
 
 def is_anagram (s1: str, s2: str) -> bool:

@@ -1,4 +1,4 @@
-# Problem 38: Find the Longest Palindromic Substring
+# Problem 36: Find the Longest Palindromic Substring
 # Write a Python function that takes a string and returns the longest palindromic substring. A palindromic 
 # substring is a sequence that reads the same backward as forward.
 
